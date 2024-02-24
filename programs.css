@@ -1,0 +1,31 @@
+.overall {
+  display: flex;
+  justify-content: space-around;
+} 
+h1 {
+  font-size: 60px;
+  justify-content: center;
+  display: flex;
+}
+a {
+  color: black;
+  font-size: x-large;
+  font-weight: 400;
+  display: flex;
+  justify-content: center;
+}
+.overall2 {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 100px;
+  margin-right: 100px;
+}
+.overall3 {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 100px;
+  margin-right: 100px;
+}
+.all {
+  margin-bottom: 150px;
+}
